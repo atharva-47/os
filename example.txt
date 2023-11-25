@@ -1,0 +1,7 @@
+This is an example text file.
+It has multiple lines.
+Some lines are short.
+While others are longer.
+
+This file is for demonstration purpose only.
+
